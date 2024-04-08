@@ -5,3 +5,9 @@ Heute habe ich meinen **tollen Vortrag** vorbereitet. Zunächst habe ich *auf Pa
 Nächstes Mal werde ich folgendes Tun:
 - [ ] Arbeitspapier sorgfältig lesen
 - [ ] Zusammenfassung dazu schreiben
+
+### 8.4.24
+Github kenne ich im Zusammenhang mit SW Entwicklung. Heute musste ich aaber eine neuene Konto erstellen, da mein altes nicht mehr gültig ist.
+So nun kann ich mit dem richtigen ToDo starten.
+Ich war erstaunt, dass man mit GitHub ein formatives Assemssment einrichten kann. Ist mal was neues.
+So morgen überelge ich mich, wie ich dies in emiene Unterricht einsezten kann.
