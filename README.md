@@ -11,3 +11,4 @@ Github kenne ich im Zusammenhang mit SW Entwicklung. Heute musste ich aaber eine
 So nun kann ich mit dem richtigen ToDo starten.
 Ich war erstaunt, dass man mit GitHub ein formatives Assemssment einrichten kann. Ist mal was neues.
 So morgen überelge ich mich, wie ich dies in emiene Unterricht einsezten kann.
+Neuer Test.
